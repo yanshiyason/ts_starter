@@ -1,0 +1,23 @@
+{
+  "name": "TODO",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --fix",
+    "start": "ts-node ./src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/<github_user>/<github_project>"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/<github_user>/<github_project>/issues"
+  },
+  "homepage": "https://github.com/<github_user>/<github_project>#readme",
+  "devDependencies": {}
+}
